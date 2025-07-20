@@ -1,10 +1,5 @@
 # 📊 Predictive Modeling for Country-Wise Deployment and Sustainability using Mobile Connectivity Index (MCI) for PreTUPS
 
-**Repository:** `MCI_for_Pretups`  
-**Author:** Mudit Gupta  
-**Organization:** Comviva – PreTUPS Engineering  
-**Internship Duration:** June 2025 – July 2025
-
 ---
 
 ## 🌍 Project Overview
